@@ -1,6 +1,14 @@
 [
     {
-        "title": "Python",
-        "link": "https://developer.mozilla.org/"
+        "title": "Code With Harry",
+        "link": "https://www.youtube.com/watch?v=gfDE2a7MKjA&t=185s"
+    },
+    {
+        "title": "learnpython.org",
+        "link": "https://www.learnpython.org/"
+    },
+    {
+        "title": "Hackerrank",
+        "link": "https://www.hackerrank.com/domains/python"
     }
 ]

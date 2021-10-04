@@ -1,6 +1,14 @@
 [
     {
-        "title": "C++",
-        "link": "https://developer.mozilla.org/"
+        "title": "Programiz",
+        "link": "https://www.programiz.com/cpp-programming"
+    },
+    {
+        "title": "W3Schools",
+        "link": "https://www.w3schools.com/CPP/default.asp"
+    },
+    {
+        "title": "Tutorials Point",
+        "link": "https://www.tutorialspoint.com/cplusplus/index.htm"
     }
 ]
