@@ -278,3 +278,16 @@ footer {
     width: 530px;
     height: 235px;
 }
+
+#forkImg {
+  width: 50%;
+  margin-left: 10%;
+}
+
+#footHeading{
+  font-family: "Poppins", serif;
+  font-weight: bold;
+  font-size: 15px;
+  color: var(--primary-title);
+  margin-left: 2%;
+}
