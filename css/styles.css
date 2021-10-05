@@ -106,6 +106,24 @@ html {
   box-shadow: 0px 0px 5px #f0eee4;
 }
 /* Reference Section */
+
+/*overlay effect*/
+
+/* #resourceReference
+{
+  background-color: rgb(133, 130, 130,0.4);
+  z-index: 100;
+} */
+
+#resourceReferenceBox::before{
+  content: '';
+  top:0;
+  left: 0;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+}
 #resourceReferenceBox {
   display: flex;
   flex-direction: column;
@@ -114,21 +132,64 @@ html {
   height: 900px;
   padding: 30px;
   filter: brightness(80%);
+  max-width: auto;
+  background-repeat: no-repeat;
+  /* background-color: rgb(133, 130, 130,0.4);
+  z-index: 100; */
+   opacity: 0.9; 
+   z-index: -1;
+}
+
+#referenceButton:hover{
+  /* width: 300px;
+  height: 150px; */
+  /* transition: width s height 4s;
+  transition-delay: 1s; */
+  border:none;
+  background-color: cornflowerblue;
+  transition-timing-function: ease-in;
+  transition: 0.5s ease-in-out;
+
 }
 #resourceReferenceHeading {
-  font-size: 4rem;
+  font-size: 5rem;
   line-height: 5.5rem;
-  color: white;
+  color: rgb(255, 255, 255);
   margin-left: 3%;
-}
+  z-index: 100;
+  text-shadow: 2px 21px black;
+ 
+   
+} 
+
+ 
 #referenceButton {
+  position: absolute;
   border-radius: 45px;
   font-size: 1.3rem;
   width: 260px;
   margin-left: 3%;
-  border: 2px solid white;
-  color: white;
+  z-index: 200; -webkit-text-stroke: 0.05vw white;
+  border: 3px solid black;
+  transition: width s height 4s;
+  transition-delay: 0.5s ;
+  /* transition: width 2s, height 4s;
+  transition-delay: 1s; */
+    /* animation-name: sample;
+   animation-iteration-count: infinite;
+   animation-duration: 2s;
+   animation-direction: alternate; */
 }
+ 
+  /* @keyframes sample{
+   from{border-radius:0%;}
+   to{border-radius:50%;background-color: blue;} */
+ 
+  
+  
+  
+
+
 
 /* #resource {
   background: var(--primary-contact-background);
