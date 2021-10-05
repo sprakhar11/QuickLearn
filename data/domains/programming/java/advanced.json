@@ -1,6 +1,14 @@
 [
     {
-        "title": "Java",
-        "link": "https://developer.mozilla.org/"
+        "title": "GeeksForGeeks",
+        "link": "https://www.geeksforgeeks.org/java/"
+    },
+    {
+        "title": "Java Documentation",
+        "link": "https://docs.oracle.com/en/java/"
+    },
+    {
+        "title": "FreeCodeCamp",
+        "link": "https://www.freecodecamp.org/news/tag/java/"
     }
 ]

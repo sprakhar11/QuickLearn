@@ -1,6 +1,14 @@
 [
     {
-        "title": "C++",
-        "link": "https://developer.mozilla.org/"
+        "title": "GeeksForGeeks",
+        "link": "https://www.geeksforgeeks.org/c-plus-plus/"
+    },
+    {
+        "title": "C++ Documentation",
+        "link": "https://www.cplusplus.com/doc/tutorial/"
+    },
+    {
+        "title": "FreeCodeCamp",
+        "link": "https://www.freecodecamp.org/news/tag/c-2/"
     }
 ]

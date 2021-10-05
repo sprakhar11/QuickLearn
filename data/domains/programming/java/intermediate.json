@@ -1,6 +1,14 @@
 [
     {
-        "title": "Java",
-        "link": "https://developer.mozilla.org/"
+        "title": "Code With Harry",
+        "link": "https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q"
+    },
+    {
+        "title": "javatpoint",
+        "link": "https://www.javatpoint.com/java-tutorial"
+    },
+    {
+        "title": "Hackerrank",
+        "link": "https://www.hackerrank.com/domains/java"
     }
 ]
