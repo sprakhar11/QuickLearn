@@ -1,5 +1,17 @@
 [
     {
+        "title": "Socket.IO",
+        "link": "https://socket.io/"
+    },
+    {
+        "title": "MochaJS testing library",
+        "link": "https://mochajs.org/"
+    },
+    {
+        "title": "ChaiJS assertion library",
+        "link": "https://www.chaijs.com/"
+    },
+    {
         "title": "MDN DOCS",
         "link": "https://developer.mozilla.org/"
     },

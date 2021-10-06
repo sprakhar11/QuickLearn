@@ -22,6 +22,9 @@
     {
         "title": "ReactJs CheatSheet",
         "link": "https://devhints.io/react"
+    },
+    {
+        "title": "Jest Testing Library",
+        "link": "https://jestjs.io/"
     }
-    
 ]

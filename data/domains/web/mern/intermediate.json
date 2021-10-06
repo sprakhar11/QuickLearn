@@ -1,6 +1,10 @@
 [
     {
-        "title": "MDN DOCS",
-        "link": "https://developer.mozilla.org/"
+        "title": "Free Code Camp",
+        "link": "https://youtu.be/7CqJlxBYj-M"
+    },
+    {
+        "title": "Redux",
+        "link": "https://redux.js.org/"
     }
 ]

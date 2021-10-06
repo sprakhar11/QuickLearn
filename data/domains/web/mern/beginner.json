@@ -1,10 +1,18 @@
 [
     {
-        "title": "MDN DOCS",
-        "link": "https://developer.mozilla.org/"
+        "title":"MongoDB",
+        "link":"https://docs.mongodb.com/"
+    },
+    {
+        "title": "Express JS",
+        "link": "https://expressjs.com/"
     },
     {
         "title": "React",
-        "link": "https://facebook.github.io/react/"
+        "link": "https://reactjs.org/"
+    },
+    {
+        "title": "Node JS",
+        "link": "https://nodejs.dev/learn"
     }
 ]
