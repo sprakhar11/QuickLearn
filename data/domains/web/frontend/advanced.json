@@ -1,15 +1,31 @@
 [
+   
     {
-        "title": "MDN DOCS",
-        "link": "https://developer.mozilla.org/"
+        "title": "MDN Docs On JS",
+        "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     },
     {
-        "title": "Namaste Javascipt by Akshay Saini",
-        "link": "https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP"
+        "title": "React Documentation",
+        "link": "https://reactjs.org/docs/getting-started.html"
     },
     {
         "title": "JavaScript Info",
         "link": "https://javascript.info/"
+    },
+    {
+        "title": "FreeCodeCamp React BootCamp",
+        "link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/define-an-html-class-in-jsx"
+    },
+    {
+        "title": "React Project Ideas",
+        "link": "https://www.codementor.io/projects/reactjs"
+    },
+    {
+        "title": "ReactJs CheatSheet",
+        "link": "https://devhints.io/react"
+    },
+    {
+        "title": "Jest Testing Library",
+        "link": "https://jestjs.io/"
     }
-    
 ]
