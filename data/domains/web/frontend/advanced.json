@@ -1,15 +1,6 @@
 [
     {
-        "title": "MDN DOCS",
-        "link": "https://developer.mozilla.org/"
-    },
-    {
-        "title": "Namaste Javascipt by Akshay Saini",
-        "link": "https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP"
-    },
-    {
-        "title": "JavaScript Info",
-        "link": "https://javascript.info/"
-    }
-    
+        "title": "Jest Testing Library",
+        "link": "https://jestjs.io/"
+    }    
 ]

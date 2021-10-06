@@ -1,7 +1,11 @@
 [
     {
-        "title": "MDN DOCS",
-        "link": "https://developer.mozilla.org/"
+        "title": "Node JS",
+        "link": "https://nodejs.dev/learn"
+    },
+    {
+        "title": "Express JS",
+        "link": "https://expressjs.com/"
     },
     {
         "title": "The Net Ninja",
