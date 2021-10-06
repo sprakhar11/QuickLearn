@@ -1,6 +1,14 @@
 [
     {
-        "title": "Android",
-        "link": "https://developer.mozilla.org/"
+        "title": "Thenewboston",
+        "link": "https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl"
+    },
+    {
+        "title": "freecodecamp.org (Kotlin)",
+        "link": "https://www.youtube.com/watch?v=F9UC9DY-vIU&ab_channel=freeCodeCamp.org"
+    },
+    {
+        "title": "Android Basics in Kotlin",
+        "link": "https://developer.android.com/courses/android-basics-kotlin/course"
     }
 ]
