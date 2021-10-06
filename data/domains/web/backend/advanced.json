@@ -10,5 +10,13 @@
     {
         "title": "ChaiJS assertion library",
         "link": "https://www.chaijs.com/"
+    },
+    {
+        "title": "MDN DOCS",
+        "link": "https://developer.mozilla.org/"
+    },
+    {
+        "title": "Nodejs Website Tutorials",
+        "link": "https://nodejs.dev/learn"
     }
 ]
