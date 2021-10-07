@@ -10,5 +10,9 @@
     {
         "title": "Advanced AI: Deep Reinforcement Learning (Udemy)",
         "link": "https://www.udemy.com/course/deep-reinforcement-learning-in-python/"
+    },
+    {
+        "title":"ANNetGPGPU",
+        "link":"https://github.com/ANNetGPGPU/ANNetGPGPU"
     }
 ]
