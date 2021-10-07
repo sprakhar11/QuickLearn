@@ -70,6 +70,7 @@ for (let i = 0; i < selectCategoryBtn.length; i++) {
     intermediateResourceBox.innerHTML = "";
     advancedResourceBox.innerHTML = "";
     const value = selectCategoryBtn[i].value;
+
     if (value == "Blockchain") {
       console.log("hello");
       /* beginner*/
@@ -94,6 +95,7 @@ for (let i = 0; i < selectCategoryBtn.length; i++) {
       ares = await fetch(`./data/domains/${value}/${domains[i]}/advanced.json`);
       adata = await ares.json();
     }
+    
     /* beginner data */
     // later we can have loader
     setTimeout(() => {
