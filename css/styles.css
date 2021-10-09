@@ -105,6 +105,23 @@ html {
   transform: scale(1.05);
   box-shadow: 0px 0px 5px #f0eee4;
 }
+.card-body {
+  min-height: 150px;
+}
+.text-center {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: end;
+}
+
+.card-title {
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
 /* Reference Section */
 #resourceReferenceBox {
   display: flex;
@@ -284,7 +301,7 @@ footer {
   margin-left: 10%;
 }
 
-#footHeading{
+#footHeading {
   font-family: "Poppins", serif;
   font-weight: bold;
   font-size: 15px;
