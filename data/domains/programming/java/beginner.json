@@ -1,6 +1,18 @@
 [
     {
-        "title": "Java",
-        "link": "https://developer.mozilla.org/"
+        "title": "Programiz",
+        "link": "https://www.programiz.com/java-programming"
+    },
+    {
+        "title": "W3Schools",
+        "link": "https://www.w3schools.com/java/"
+    },
+    {
+        "title": "Tutorials Point",
+        "link": "https://www.tutorialspoint.com/java/index.htm"
+    },
+     {
+        "title": "Java resources",
+        "link": "https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html"
     }
 ]

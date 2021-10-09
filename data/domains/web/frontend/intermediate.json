@@ -1,19 +1,30 @@
 [
     {
-        "title": "MDN DOCS",
-        "link": "https://developer.mozilla.org/"
+
+        "title": "Pepcoding",
+        "link": "https://www.youtube.com/playlist?list=PL-Jc9J83PIiEeD3I4VXETPDmzJ3Z1rWb4"
     },
     {
+
         "title": "Traversy Media",
         "link": "https://www.youtube.com/watch?v=hdI2bqOjy3c&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX"
     },
     {
-        "title": "React Documentation",
+        "title": "React",
         "link": "https://reactjs.org/"
+
     },
-    
     {
-        "title": "Code Evolution",
-        "link": "https://www.youtube.com/watch?v=QFaFIcGhPoM"
+        "title": "Vue",
+        "link": "https://vuejs.org/"
+    },
+    {
+        "title": "Angular",
+        "link": "https://angular.io/"
+    },
+    {
+        "title": "CSS Tricks",
+        "link": "https://css-tricks.com/"
     }
+
 ]

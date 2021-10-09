@@ -1,6 +1,14 @@
 [
     {
-        "title": "Python",
-        "link": "https://developer.mozilla.org/"
+        "title": "Programiz",
+        "link": "https://www.programiz.com/python-programming"
+    },
+    {
+        "title": "W3Schools",
+        "link": "https://www.w3schools.com/python/"
+    },
+    {
+        "title": "Tutorials Point",
+        "link": "https://www.tutorialspoint.com/python/index.htm"
     }
 ]
