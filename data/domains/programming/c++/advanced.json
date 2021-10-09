@@ -14,5 +14,10 @@
     {
         "title": "ProblemSet",
         "link": "https://cses.fi/problemset/"
+    },
+    {
+        "title": "c++ adv resources",
+        "link": "https://medium.com/javarevisited/10-advanced-c-books-and-courses-for-experienced-programmers-a90c3942471a"
     }
+
 ]
