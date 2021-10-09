@@ -10,5 +10,9 @@
     {
         "title": "Tutorials Point",
         "link": "https://www.tutorialspoint.com/java/index.htm"
+    },
+     {
+        "title": "Java resources",
+        "link": "https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html"
     }
 ]
