@@ -38,6 +38,7 @@ const domains = [
   "big_data",
   "statistics",
   "blockchain",
+  "ethical_hacking"
 ];
 let bres = "";
 let bdata = "";
@@ -71,7 +72,7 @@ for (let i = 0; i < selectCategoryBtn.length; i++) {
     advancedResourceBox.innerHTML = "";
     const value = selectCategoryBtn[i].value;
 
-    if (value == "Blockchain") {
+    if (value == "Blockchain"||"ethical_hacking") {
       console.log("hello");
       /* beginner*/
       bres = await fetch(`./data/domains/${value}/beginner.json`);
@@ -82,7 +83,9 @@ for (let i = 0; i < selectCategoryBtn.length; i++) {
       /* advanced */
       ares = await fetch(`./data/domains/${value}/advanced.json`);
       adata = await ares.json();
-    } else {
+    }
+      else {
+
       /* beginner*/
       bres = await fetch(`./data/domains/${value}/${domains[i]}/beginner.json`);
       bdata = await bres.json();
