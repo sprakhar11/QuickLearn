@@ -6,5 +6,9 @@
     {
         "title":"Redux",
         "link":"https://redux.js.org/"
+    },
+    {
+        "title":"asynchronous javascript",
+        "link":"https://blogs.oracle.com/oraclemagazine/using-the-callback-pattern-and-the-async-module"
     }
 ]
