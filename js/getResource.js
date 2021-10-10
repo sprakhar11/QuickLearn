@@ -30,7 +30,6 @@ const domains = [
   "sound",
   "ui-ux",
   "video",
-
   "ai",
   "computer_vision",
   "deep_learning",
@@ -72,7 +71,7 @@ for (let i = 0; i < selectCategoryBtn.length; i++) {
     advancedResourceBox.innerHTML = "";
     const value = selectCategoryBtn[i].value;
 
-    if (value == "Blockchain"||"ethical_hacking") {
+    if (value == "Blockchain" || value=="ethical_hacking") {
       console.log("hello");
       /* beginner*/
       bres = await fetch(`./data/domains/${value}/beginner.json`);
@@ -85,8 +84,8 @@ for (let i = 0; i < selectCategoryBtn.length; i++) {
       adata = await ares.json();
     }
       else {
-
       /* beginner*/
+      console.log("here");
       bres = await fetch(`./data/domains/${value}/${domains[i]}/beginner.json`);
       bdata = await bres.json();
       /* intermediate */

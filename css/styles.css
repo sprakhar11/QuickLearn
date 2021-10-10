@@ -213,7 +213,8 @@ html {
   background: var(--primary-contact-background);
 } */
 /* sidebar */
-.contribution-btn {
+
+#contributeBtn{
   border: none;
   background: none;
   margin: 0.5rem auto;
@@ -377,4 +378,18 @@ footer {
   font-size: 15px;
   color: var(--primary-title);
   margin-left: 2%;
+}
+
+#contributeBtn{
+  border: none;
+  background: none;
+  margin: 0.5rem auto;
+  width: 100%;
+  box-shadow: 1px 1px 5px var(--primary-title);
+  border-radius: 20px;
+  font-family: sans-serif;
+  color: var(--primary-label);
+  padding: 8px;
+  color: white;
+  background: var(--primary-title);
 }
