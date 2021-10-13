@@ -14,5 +14,11 @@
     {
         "title": "Java resources",
         "link": "https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html"
+    },
+    {
+        "title": "GeeksforGeeks",
+        "link": "https://www.geeksforgeeks.org/java/"
     }
+    
+
 ]
