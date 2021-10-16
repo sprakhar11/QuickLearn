@@ -104,59 +104,80 @@
       </div>
     </div>
   </section>
-  <!-- Feature Section Starts -->
-  <section id="features">
+
+ <section id="features">
     <div class="container mt-5 p-3">
       <h2 id="featureHeading">Features</h2>
       <!-- <hr style="border:4px solid blue;"/> -->
       <!--Create a Feature Tray of 3-4 Items-->
-      <div class="d-flex container flex-wrap justify-content-center">
-        <div class="card m-3" style="width: 18rem">
-          <img src="./assets/images/explore.jpg" class="card-img-top img-sz mx-auto" alt="..." />
-          <div class="card-body text-center">
-            <h5 class="card-title">Explore..</h5>
-            <p class="card-text">Find the domain you want to explore</p>
-          </div>
-        </div>
 
-        <div class="card m-3" style="width: 18rem">
-          <img src="./assets/images/choose.png" class="card-img-top img-sz mx-auto" alt="..." />
-          <div class="card-body text-center">
-            <h5 class="card-title">Choosing made easy</h5>
-            <p class="card-text">
-              Choose from plethora of topics to start with
-            </p>
+<!-- Contributor - @samyaksand , Contributed Slide up Caption Hover Effect for the Feature cards-->
+<ul class="cards">
+  <li>
+    <a href="" class="card">
+      <img src="./assets/images/explore.jpg" class="card__image" alt="" />
+      <div class="card__overlay">
+        <div class="card__header">
+          <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>                     
+          <div class="card__header-text">
+            <h5 class="card-title">Explore!</h5>            
           </div>
         </div>
+        <p class="card__description">Find the domain you want to explore.</p>
       </div>
-
-      <div class="d-flex container flex-wrap justify-content-center">
-        <div class="card m-3" style="width: 18rem">
-          <img src="./assets/images/clear.png" class="card-img-top img-sz mx-auto" alt="..." />
-          <div class="card-body text-center">
-            <h5 class="card-title">Comprehensible Content</h5>
-            <p class="card-text">
-              Clear and concise for anyone to understand
-            </p>
+    </a>      
+  </li>
+  <li>
+    <a href="" class="card">
+      <img src="./assets/images/choose.png" class="card__image" alt="" />
+      <div class="card__overlay">
+        <div class="card__header">
+          <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>                     
+          <div class="card__header-text">
+            <h5 class="card-title">Choosing made easy</h5>            
           </div>
         </div>
-
-        <div class="card m-3" style="width: 18rem">
-          <img src="./assets/images/typing.jpg" class="card-img-top img-sz mx-auto" alt="..." />
-          <div class="card-body text-center">
-            <h5 class="card-title">Learn Quick!</h5>
-            <p class="card-text">
-              Have fun while learning from the best resources we provide
-            </p>
-          </div>
-        </div>
+        <p class="card__description">Choose from plethora of topics to start with.</p>
       </div>
-    </div>
-  </section>
+    </a>      
+  </li>
+  <li>
+    <a href="" class="card">
+      <img src="./assets/images/clear.png" class="card__image" alt="" />
+      <div class="card__overlay">
+        <div class="card__header">
+          <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>                     
+          <div class="card__header-text">
+            <h5 class="card-title">Comprehensible Content</h5>            
+          </div>
+        </div>
+        <p class="card__description"> Clear and concise for anyone to understand.</p>
+      </div>
+    </a>      
+  </li>
+  <li>
+    <a href="" class="card">
+      <img src="./assets/images/typing.jpg" class="card__image" alt="" />
+      <div class="card__overlay">
+        <div class="card__header">
+          <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>                     
+          <div class="card__header-text">
+            <h5 class="card-title">Learn Quick!</h5>            
+          </div>
+        </div>
+        <p class="card__description"> Have fun while learning from the best resources we provide.</p>
+      </div>
+    </a>      
+  </li>
+</ul>
+
+
+<!-- Contributor - @samyaksand , Contributed Slide up Caption Hover Effect for the Feature cards-->
 
   <!--Feature Section Ends -->
   <!-- Resource Section Reference -->
   <section id="resourceReference" class="mb-1">
+
     <div class="container-fluid my-3" id="resourceReferenceBox"
       style="background-image: url('assets/images/bg-cta.jpg'); background-size: cover; background-position: top center ;">
       <h2 id="resourceReferenceHeading">
@@ -199,7 +220,7 @@
               <button id="contactBtn" class="btn btn-md" type="submit">Submit</button>
             </div>
           </form>
-          <div id="status"></div>
+      
         </div>
 
 
