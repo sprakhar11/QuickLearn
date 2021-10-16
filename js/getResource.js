@@ -38,7 +38,6 @@ const domains = [
   "statistics",
   "blockchain",
   "ethical_hacking",
-  // "Game_Development",
   "Game_dev"
 ];
 let bres = "";
